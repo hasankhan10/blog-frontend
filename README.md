@@ -1,8 +1,20 @@
-# React + Vite
+# Full Stack Blog Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to our Full Stack Blog Website! This project is developed by **Mehedi Hasan**, **Saheb Das**, **Debobrata Sarkar** and **Sujon Mondal**.
+The aim of this project is to provide a responsive and user-friendly platform for users to create, view, and manage blog posts.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+Check out the [live demo here](#) *(replace with your live demo URL if you have one)*.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📋 Features
+- User authentication (Login/Signup)
+- Create, edit, delete blog posts
+- Responsive design for all devices
+- Rich text editor for blog posts
+- Pagination and search functionality for efficient browsing
+
+## 🛠️ Tech Stack
+- **Frontend**: React.js, HTML, CSS, Bootstrap
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Other**: JWT Authentication,Zod validation, bcrypt for hashing passwords
